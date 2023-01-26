@@ -1,0 +1,17 @@
+# Build and target directories
+target/
+build/
+
+# Log files
+logs/
+
+# Local configuration files
+*.local
+*.conf
+*.properties
+*.yml
+
+# IDE-specific files
+.idea/
+.vscode/
+*.iml
